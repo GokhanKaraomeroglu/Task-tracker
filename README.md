@@ -1,4 +1,4 @@
-# Project-006 : Task Tracker (RC-06)
+# Task Tracker
 
 ## Description
 
