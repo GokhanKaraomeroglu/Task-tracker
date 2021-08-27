@@ -1,8 +1,8 @@
-# Task Tracker
+# Task Tracker For Learning
 
 ## Description
 
-Project aims to create a Task Tracker App.
+Project aims to create a Task Tracker App with using React.js
 
 ## Problem Statement
 
